@@ -8,7 +8,7 @@
 }
 
 .container {
-    max-width: 1512px;
+   width: 1512px;
     height: 982px;
     border: 1px solid rgb(9, 9, 9);
 }
